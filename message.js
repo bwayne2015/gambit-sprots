@@ -1,0 +1,1 @@
+exports.walletNotFound = 'Wallet not found with this id.'
